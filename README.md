@@ -2,8 +2,8 @@
 NU DE200 Final Project
 
 ## Instructions
-Run python3 write_csv_file.py first
-Then run main.py
+Run python3 write_csv_file.py first.  
+Then run main.py.
 
 ### Code
 - main.py: Main code file to run
